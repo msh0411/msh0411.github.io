@@ -1,7 +1,7 @@
 title: "Mins Blog"
 author: "Min Seung ho"
 description: "Really cool blog about ... something"
-permalink: /:title/
+permalink: /:profile/
 lang: "en"
 
 show_footer: false           # show the "previous" and "next" links at the end of each post
