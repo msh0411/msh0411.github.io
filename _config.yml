@@ -1,7 +1,7 @@
 title: "Mins Blog"
 author: "Min Seung ho"
-description: "Really cool blog about ... something"
-permalink: /profile/
+description: "Mins Blog"
+permalink: /:title/
 lang: "en"
 
 show_footer: false           # show the "previous" and "next" links at the end of each post
@@ -15,7 +15,6 @@ navigation:                  # site navigation in the header
   - Skill.md
   - Portfolio.md
   - Contact.md
-  - Github: "http://github.com/niklasbuschmann/contrast"
 
 #icons:                      # icons in the header, see http://fontawesome.com/icons
 #  envelope: "mailto:niklasbuschmann@users.noreply.github.com"
