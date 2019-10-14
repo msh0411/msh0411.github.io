@@ -1,6 +1,6 @@
 ---
 title: "Test2"
-permalink: "/test/"
+permalink: "/test2/"
 ---
 
 ## Installation
