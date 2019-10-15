@@ -10,14 +10,9 @@ _ _ _
 <img src="https://msh0411.github.io/assets/Gp2xWiz.jpg" alt="drawing" width="200"/>
 <img src="https://msh0411.github.io/assets/TheAlchemist_01.jpg" alt="drawing" width="200"/>
 
-
-<img src="https://msh0411.github.io/assets/TheAlchemist_02.jpg" alt="drawing" width="200"/>
-<img src="https://msh0411.github.io/assets/TheAlchemist_03.jpg" alt="drawing" width="200"/>
-
-
 |プラットフォーム|言語|人数|役割
 |--------|--------|--------|--------|
-|GP2X|C/C++|8人|プログラマー|
+|GP2X|C/C++|8人|開発|
 
 【業務内容】
 
@@ -25,9 +20,27 @@ _ _ _
 + ユーザーインターフェースの設計、開発、テスト
 + キャラクター技術設計、開発、テスト
 
+[**++詳しくは++**](https://msh0411.github.io/posts/)
+
 
 _ _ _
 
+#### Android Game Library
+
+<img src="https://msh0411.github.io/assets/AndroidGameLibrary_01.png" alt="drawing" width="360"/>
+
+|プラットフォーム|言語|人数|役割
+|--------|--------|--------|--------|
+|Android|Java|1人|設計、開発|
+
+【業務内容】
+
++ 2D Androidゲームアプリ開発のためEngine Library開発。
++ File I/O, Graphics, Sound, Input, UI, Managerの構造設計 & 開発
+
+[**++詳しくは++**](https://msh0411.github.io/posts/)
+
+_ _ _
 
 #### Resource Batch Tool
 
@@ -35,28 +48,92 @@ _ _ _
 
 |プラットフォーム|言語|人数|役割
 |--------|--------|--------|--------|
-|Windows|C/C++, MFC|1人|プログラマー|
+|Windows|C/C++, MFC|1人|設計、開発|
 
 【業務内容】
 
 + 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
 
-<img src="https://msh0411.github.io/assets/ResourceBatchTool_02.png" alt="drawing" width="400"/>
+[**++詳しくは++**](https://msh0411.github.io/posts/)
 
-【Sprite Builder】
+_ _ _
 
-+ 制作したAndroid基盤ライブラリーに使われるSprite Typeのイメージファイルを生成する機能。生成されたSprite イメージはSprite Image File(SIF)になります。
+#### Piggybank
 
-<img src="https://msh0411.github.io/assets/ResourceBatchTool_03.png" alt="drawing" width="400"/>
+<img src="https://msh0411.github.io/assets/ResourceBatchTool_01.png" alt="drawing" width="400"/>
 
-【Image Grid Builder】
+|プラットフォーム|言語|人数|役割
+|--------|--------|--------|--------|
+|Android|Java|6人|設計、開発|
 
-+ ライブラリで使われるイメージ(png, jpg, bmpなど...)とSprite Builderで生成されたSIF(Sprite Image File)を一つのGridに統合してIGF(Image Grid File)を作る機能。
+【業務内容】
 
-<img src="https://msh0411.github.io/assets/ResourceBatchTool_04.png" alt="drawing" width="400"/>
++ 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
 
-【Resource Batch Fileの管理】
+[**++詳しくは++**](https://msh0411.github.io/posts/)
 
- + 製作したIGF(Image Grid File)を呼んできてAnimation、大きさ、位置情報などのライブラリで使用するための情報を修正管理。
+_ _ _
+
+#### DreamRunner
+
+<img src="https://msh0411.github.io/assets/ResourceBatchTool_01.png" alt="drawing" width="400"/>
+
+|プラットフォーム|言語|人数|役割
+|--------|--------|--------|--------|
+|Android|Java|6人|開発|
+
+【業務内容】
+
++ 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
+
+[**++詳しくは++**](https://msh0411.github.io/posts/)
+
+_ _ _
+
+#### Legend of Mukbang
+
+<img src="https://msh0411.github.io/assets/ResourceBatchTool_01.png" alt="drawing" width="400"/>
+
+|プラットフォーム|言語|人数|役割
+|--------|--------|--------|--------|
+|Android, IOS, Cocos2d-X|NativeC, C++, Java, ObjectiveC|18人|開発|
+
+【業務内容】
+
++ 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
+
+[**++詳しくは++**](https://msh0411.github.io/posts/)
+
+_ _ _
+
+#### God's Gate
+
+<img src="https://msh0411.github.io/assets/ResourceBatchTool_01.png" alt="drawing" width="400"/>
+
+|プラットフォーム|言語|人数|役割
+|--------|--------|--------|--------|
+|Android, IOS, Cocos2d-X|NativeC, C++, Java, ObjectiveC|30人|設計、開発|
+
+【業務内容】
+
++ 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
+
+[**++詳しくは++**](https://msh0411.github.io/posts/)
+
+_ _ _
+
+#### 小規模会員管理アプリケーション
+
+<img src="https://msh0411.github.io/assets/ResourceBatchTool_01.png" alt="drawing" width="400"/>
+
+|プラットフォーム|言語|人数|役割
+|--------|--------|--------|--------|
+|PC|C#|1人|設計、開発|
+
+【業務内容】
+
++ 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
+
+[**++詳しくは++**](https://msh0411.github.io/posts/)
 
 _ _ _
