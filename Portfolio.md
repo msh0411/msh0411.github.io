@@ -20,7 +20,7 @@ _ _ _
 + ユーザーインターフェースの設計、開発、テスト
 + キャラクター技術設計、開発、テスト
 
-[++詳しくは++](https://msh0411.github.io/posts/)
+++[詳しくは](https://msh0411.github.io/posts/)++
 
 
 _ _ _
@@ -76,7 +76,7 @@ _ _ _
 
 #### DreamRunner
 
-<img src="https://msh0411.github.io/assets/ResourceBatchTool_01.png" alt="drawing" width="400"/>
+<div class="large embed"><iframe src="https://msh0411.github.io/assets/DreamRunner.avi" frameborder="0" allowfullscreen></iframe></div>
 
 |プラットフォーム|使用技術|人数|役割
 |--------|--------|--------|--------|
