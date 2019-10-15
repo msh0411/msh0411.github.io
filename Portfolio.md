@@ -5,7 +5,7 @@ permalink: "/portfolio/"
 
 _ _ _
 
-## The Alchemist
+#### The Alchemist
 
 <img src="https://msh0411.github.io/assets/Gp2xWiz.jpg" alt="drawing" width="200"/>
 <img src="https://msh0411.github.io/assets/TheAlchemist_01.jpg" alt="drawing" width="200"/>
@@ -19,7 +19,6 @@ _ _ _
 |--------|--------|--------|--------|
 |GP2X|C/C++|8人|プログラマー|
 
-
 【業務内容】
 
 + モンスターAIパタン設計、開発、テスト
@@ -30,7 +29,7 @@ _ _ _
 _ _ _
 
 
-## Resource Batch Tool
+#### Resource Batch Tool
 
 <img src="https://msh0411.github.io/assets/ResourceBatchTool_01.png" alt="drawing" width="400"/>
 
@@ -56,7 +55,7 @@ _ _ _
 
 <img src="https://msh0411.github.io/assets/ResourceBatchTool_04.png" alt="drawing" width="400"/>
 
-【Resource Batch File管理】
+【Resource Batch Fileの管理】
 
  + 製作したIGF(Image Grid File)を呼んできてAnimation、大きさ、位置情報などのライブラリで使用するための情報を修正管理。
 
