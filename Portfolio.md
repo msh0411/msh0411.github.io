@@ -10,7 +10,7 @@ _ _ _
 <img src="https://msh0411.github.io/assets/Gp2xWiz.jpg" alt="drawing" width="200"/>
 <img src="https://msh0411.github.io/assets/TheAlchemist_01.jpg" alt="drawing" width="200"/>
 
-|プラットフォーム|言語|人数|役割
+|プラットフォーム|使用技術|人数|役割
 |--------|--------|--------|--------|
 |GP2X|C/C++|8人|開発|
 
@@ -29,7 +29,7 @@ _ _ _
 
 <img src="https://msh0411.github.io/assets/AndroidGameLibrary_01.png" alt="drawing" width="360"/>
 
-|プラットフォーム|言語|人数|役割
+|プラットフォーム|使用技術|人数|役割
 |--------|--------|--------|--------|
 |Android|Java|1人|設計、開発|
 
@@ -46,7 +46,7 @@ _ _ _
 
 <img src="https://msh0411.github.io/assets/ResourceBatchTool_01.png" alt="drawing" width="400"/>
 
-|プラットフォーム|言語|人数|役割
+|プラットフォーム|使用技術|人数|役割
 |--------|--------|--------|--------|
 |Windows|C/C++, MFC|1人|設計、開発|
 
@@ -62,7 +62,7 @@ _ _ _
 
 <img src="https://msh0411.github.io/assets/ResourceBatchTool_01.png" alt="drawing" width="400"/>
 
-|プラットフォーム|言語|人数|役割
+|プラットフォーム|使用技術|人数|役割
 |--------|--------|--------|--------|
 |Android|Java|6人|設計、開発|
 
@@ -78,7 +78,7 @@ _ _ _
 
 <img src="https://msh0411.github.io/assets/ResourceBatchTool_01.png" alt="drawing" width="400"/>
 
-|プラットフォーム|言語|人数|役割
+|プラットフォーム|使用技術|人数|役割
 |--------|--------|--------|--------|
 |Android|Java|6人|開発|
 
@@ -94,7 +94,7 @@ _ _ _
 
 <img src="https://msh0411.github.io/assets/ResourceBatchTool_01.png" alt="drawing" width="400"/>
 
-|プラットフォーム|言語|人数|役割
+|プラットフォーム|使用技術|人数|役割
 |--------|--------|--------|--------|
 |Android, IOS, Cocos2d-X|NativeC, C++, Java, ObjectiveC|18人|開発|
 
@@ -110,7 +110,7 @@ _ _ _
 
 <img src="https://msh0411.github.io/assets/ResourceBatchTool_01.png" alt="drawing" width="400"/>
 
-|プラットフォーム|言語|人数|役割
+|プラットフォーム|使用技術|人数|役割
 |--------|--------|--------|--------|
 |Android, IOS, Cocos2d-X|NativeC, C++, Java, ObjectiveC|30人|設計、開発|
 
@@ -126,7 +126,7 @@ _ _ _
 
 <img src="https://msh0411.github.io/assets/ResourceBatchTool_01.png" alt="drawing" width="400"/>
 
-|プラットフォーム|言語|人数|役割
+|プラットフォーム|使用技術|人数|役割
 |--------|--------|--------|--------|
 |PC|C#|1人|設計、開発|
 
