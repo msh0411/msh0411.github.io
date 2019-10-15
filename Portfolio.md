@@ -7,16 +7,14 @@ _ _ _
 
 ## The Alchemist
 
-```
+<img src="https://msh0411.github.io/assets/Gp2xWiz.jpg" alt="drawing" width="200"/>
 
-```
-![1](https://msh0411.github.io/assets/Gp2xWiz.jpg "GP2X ゲーム機器"  "width:100px")
+<img src="https://msh0411.github.io/assets/TheAlchemist_01.jpg" alt="drawing" width="200"/>
 
-![2](https://msh0411.github.io/assets/TheAlchemist_01.jpg "The Alchemist"  "width:100px")
+<img src="https://msh0411.github.io/assets/TheAlchemist_02.jpg" alt="drawing" width="200"/>
 
-![3](https://msh0411.github.io/assets/TheAlchemist_02.jpg "The Alchemist"  "width:100px")
+<img src="https://msh0411.github.io/assets/TheAlchemist_03.jpg" alt="drawing" width="200"/>
 
-![4](https://msh0411.github.io/assets/TheAlchemist_03.jpg "The Alchemist"  "width:100px")
 
 |プラットフォーム|言語|人数|役割
 |--------|--------|--------|--------|
