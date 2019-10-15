@@ -20,8 +20,9 @@ _ _ _
 + ユーザーインターフェースの設計、開発、テスト
 + キャラクター技術設計、開発、テスト
 
+<div class="large" markdown="1">
 ++[詳しくは](https://msh0411.github.io/posts/)++
-
+</div>
 
 _ _ _
 
@@ -38,8 +39,9 @@ _ _ _
 + 2D Androidゲームアプリ開発のためEngine Library開発。
 + File I/O, Graphics, Sound, Input, UI, Managerの構造設計 & 開発
 
+<div class="large" markdown="1">
 [++詳しくは++](https://msh0411.github.io/posts/)
-
+</div>
 _ _ _
 
 #### Resource Batch Tool
