@@ -20,9 +20,7 @@ _ _ _
 + ユーザーインターフェースの設計、開発、テスト
 + キャラクター技術設計、開発、テスト
 
-<div class="large" markdown="1">
-++[詳しくは](https://msh0411.github.io/posts/)++
-</div>
+[詳しくは](https://msh0411.github.io/posts/)
 
 _ _ _
 
@@ -39,9 +37,7 @@ _ _ _
 + 2D Androidゲームアプリ開発のためEngine Library開発。
 + File I/O, Graphics, Sound, Input, UI, Managerの構造設計 & 開発
 
-<div class="large" markdown="1">
-[++詳しくは++](https://msh0411.github.io/posts/)
-</div>
+[詳しくは](https://msh0411.github.io/posts/)
 _ _ _
 
 #### Resource Batch Tool
@@ -56,13 +52,13 @@ _ _ _
 
 + 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
 
-[++詳しくは++](https://msh0411.github.io/posts/)
+[詳しくは](https://msh0411.github.io/posts/)
 
 _ _ _
 
 #### Piggybank
 
-<div class="large embed"><iframe src="https://msh0411.github.io/assets/PiggyBank.avi" frameborder="0" allowfullscreen></iframe></div>
+
 
 |プラットフォーム|使用技術|人数|役割
 |--------|--------|--------|--------|
@@ -72,13 +68,13 @@ _ _ _
 
 + 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
 
-[++詳しくは++](https://msh0411.github.io/posts/)
+[詳しくは](https://msh0411.github.io/posts/)
 
 _ _ _
 
 #### DreamRunner
 
-<div class="large embed"><iframe src="https://msh0411.github.io/assets/DreamRunner.avi" frameborder="0" allowfullscreen></iframe></div>
+
 
 |プラットフォーム|使用技術|人数|役割
 |--------|--------|--------|--------|
@@ -88,13 +84,16 @@ _ _ _
 
 + 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
 
-[++詳しくは++](https://msh0411.github.io/posts/)
+[詳しくは](https://msh0411.github.io/posts/)
 
 _ _ _
 
 #### Legend of Mukbang
 
-<img src="https://msh0411.github.io/assets/ResourceBatchTool_01.png" alt="drawing" width="400"/>
+<img src="https://msh0411.github.io/assets/LegendOfMukbang_01.jpg" alt="drawing" width="100" height="170"/>
+<img src="https://msh0411.github.io/assets/LegendOfMukbang_02.jpg" alt="drawing" width="100" height="170"/>
+<img src="https://msh0411.github.io/assets/LegendOfMukbang_03.jpg" alt="drawing" width="100" height="170"/>
+<img src="https://msh0411.github.io/assets/LegendOfMukbang_04.jpg" alt="drawing" width="100" height="170"/>
 
 |プラットフォーム|使用技術|人数|役割
 |--------|--------|--------|--------|
@@ -104,13 +103,13 @@ _ _ _
 
 + 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
 
-[++詳しくは++](https://msh0411.github.io/posts/)
+[詳しくは](https://msh0411.github.io/posts/)
 
 _ _ _
 
 #### God's Gate
 
-<img src="https://msh0411.github.io/assets/ResourceBatchTool_01.png" alt="drawing" width="400"/>
+<img src="https://msh0411.github.io/assets/GodsGate_01.jpg" alt="drawing" width="400"/>
 
 |プラットフォーム|使用技術|人数|役割
 |--------|--------|--------|--------|
@@ -120,7 +119,7 @@ _ _ _
 
 + 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
 
-[++詳しくは++](https://msh0411.github.io/posts/)
+[詳しくは](https://msh0411.github.io/posts/)
 
 _ _ _
 
@@ -136,6 +135,6 @@ _ _ _
 
 + 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
 
-[++詳しくは++](https://msh0411.github.io/posts/)
+[詳しくは](https://msh0411.github.io/posts/)
 
 _ _ _
