@@ -14,13 +14,18 @@ _ _ _
 |--------|--------|--------|--------|
 |GP2X|C/C++|8人|開発|
 
+【説明】
+
++ GP2X基盤ゲームアプリ
++ (株)ゲームパークホールディングスの投資誘致により、当該プラットフォーム専用ゲーム製作
+
 【業務内容】
 
-+ モンスターAIパタン設計、開発、テスト
-+ ユーザーインターフェースの設計、開発、テスト
-+ キャラクター技術設計、開発、テスト
++ Monster AI 設計、開発。
++ UI 設計、開発。
++ Character, Monster Skill 設計、開発。
 
-[詳しくは](https://msh0411.github.io/posts/)
+[詳しくは](https://msh0411.github.io/posts/2019-10-14-TheAlchemist)
 
 _ _ _
 
@@ -32,12 +37,17 @@ _ _ _
 |--------|--------|--------|--------|
 |Android|Java|1人|設計、開発|
 
+【説明】
+
++ Androidプラットフォームで使われるOpenGLES基盤ゲームライブラリー。
++ File I/O, Graphics, Sound, Input, UI, Managerの機能付き。
+
 【業務内容】
 
-+ 2D Androidゲームアプリ開発のためEngine Library開発。
-+ File I/O, Graphics, Sound, Input, UI, Managerの構造設計 & 開発
++ 2D Androidゲームアプリ開発のためのLibrary開発。
++ File I/O, Graphics, Sound, Input, UI, Managerの構造設計, 開発。
 
-[詳しくは](https://msh0411.github.io/posts/)
+[詳しくは](https://msh0411.github.io/posts/2019-10-14-AndroidGameLibrary)
 _ _ _
 
 #### Resource Batch Tool
@@ -48,11 +58,15 @@ _ _ _
 |--------|--------|--------|--------|
 |Windows|C/C++, MFC|1人|設計、開発|
 
+【説明】
+
++ 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ。
+
 【業務内容】
 
-+ 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
++ Toolの全体的作業を担当して開発。
 
-[詳しくは](https://msh0411.github.io/posts/)
+[詳しくは](https://msh0411.github.io/posts/2019-10-14-ResourceBatchTool)
 
 _ _ _
 
@@ -64,11 +78,15 @@ _ _ _
 |--------|--------|--------|--------|
 |Android|Java|6人|設計、開発|
 
+【説明】
+
++ 開発したAndroidプラットフォームのライブラリー(Android Game Library)を使って開発したゲームアプリ。
+
 【業務内容】
 
-+ 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
++ UI, Tile Map System, 決済、 File I/Oを担当して開発。 
 
-[詳しくは](https://msh0411.github.io/posts/)
+[詳しくは](https://msh0411.github.io/posts/2019-10-14-Piggybank)
 
 _ _ _
 
@@ -80,11 +98,15 @@ _ _ _
 |--------|--------|--------|--------|
 |Android|Java|6人|開発|
 
+【説明】
+
++ 開発したAndroidプラットフォームのライブラリー(Android Game Library)を使って開発したゲームアプリ。
+
 【業務内容】
 
-+ 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
++ 他社の開発依頼で引き受けて開発されたゲームでゲームロジック、全部分を担当。
 
-[詳しくは](https://msh0411.github.io/posts/)
+[詳しくは](https://msh0411.github.io/posts/2019-10-14-DreamRunner)
 
 _ _ _
 
@@ -99,11 +121,17 @@ _ _ _
 |--------|--------|--------|--------|
 |Android, IOS, Cocos2d-X|NativeC, C++, Java, ObjectiveC|18人|開発|
 
+【説明】
+
++ Cocos2d-xを基にして開発したマルチプラットフォームゲームアプリ。
+
 【業務内容】
 
-+ 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
++ Cocos2d-xを改善。
++ IOS, Android決済をGame Serverと連動。
++ Animation Library開発。
 
-[詳しくは](https://msh0411.github.io/posts/)
+[詳しくは](https://msh0411.github.io/posts/2019-10-14-LegendOfMukbang)
 
 _ _ _
 
@@ -115,11 +143,17 @@ _ _ _
 |--------|--------|--------|--------|
 |Android, IOS, Cocos2d-X|NativeC, C++, Java, ObjectiveC|30人|設計、開発|
 
+【説明】
+
++ Cocos2d-xを基にして開発したマルチプラットフォームゲームアプリ。
++ For Kakao専用ゲームアプリ。
++ 日本のDeNa社の投資誘致により、開発したゲームアプリ。
+
 【業務内容】
 
 + 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
 
-[詳しくは](https://msh0411.github.io/posts/)
+[詳しくは](https://msh0411.github.io/posts/2019-10-14-GodsGate)
 
 _ _ _
 
@@ -131,10 +165,14 @@ _ _ _
 |--------|--------|--------|--------|
 |PC|C#|1人|設計、開発|
 
+【説明】
+
++ Cocos2d-xを基にして開発したマルチプラットフォームゲームアプリ。
+
 【業務内容】
 
 + 開発したAndroidプラットフォームのライブラリーに使われるSprite生成、加工、配置を助けるMFC基盤Toolアプリ製作。
 
-[詳しくは](https://msh0411.github.io/posts/)
+[詳しくは](https://msh0411.github.io/posts/2019-10-14-CustomerManager)
 
 _ _ _
