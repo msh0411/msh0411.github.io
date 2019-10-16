@@ -48,6 +48,7 @@ _ _ _
 + File I/O, Graphics, Sound, Input, UI, Managerの構造設計, 開発。
 
 [詳しくは](https://msh0411.github.io/posts/2019-10-14-AndroidGameLibrary)
+
 _ _ _
 
 #### Resource Batch Tool
