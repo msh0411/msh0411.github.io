@@ -67,7 +67,7 @@ _ _ _
 
 + Toolの全体的作業を担当して開発。
 
-[詳しくは](https://msh0411.github.io/posts/2019-10-14-ResourceBatchTool)
+[詳しくは](https://msh0411.github.io/posts/2019-10-14-Resource Batch Tool)
 
 _ _ _
 
