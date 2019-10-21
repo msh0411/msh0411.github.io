@@ -1,18 +1,19 @@
+#####クラス構造
 
-<img src="https://msh0411.github.io/assets/ResourceBatchTool_02.png" alt="drawing" width="400"/>
+<img src="https://msh0411.github.io/assets/TheAlchemist_04.jpg" alt="drawing" width="500"/>
 
-【Sprite Builder】
+【GameView】
 
-+ 制作したAndroid基盤ライブラリーに使われるSprite Typeのイメージファイルを生成する機能。生成されたSprite イメージはSprite Image File(SIF)になります。
++ ｄ
 
-<img src="https://msh0411.github.io/assets/ResourceBatchTool_03.png" alt="drawing" width="400"/>
+<img src="https://msh0411.github.io/assets/TheAlchemist_05.jpg" alt="drawing" width="500"/>
 
-【Image Grid Builder】
+【Object】
 
-+ ライブラリで使われるイメージ(png, jpg, bmpなど...)とSprite Builderで生成されたSIF(Sprite Image File)を一つのGridに統合してIGF(Image Grid File)を作る機能。
++ ｄ
 
-<img src="https://msh0411.github.io/assets/ResourceBatchTool_04.png" alt="drawing" width="400"/>
+<img src="https://msh0411.github.io/assets/TheAlchemist_06.jpg" alt="drawing" width="500"/>
 
-【Resource Batch Fileの管理】
+【他】
 
- + 製作したIGF(Image Grid File)を呼んできてAnimation、大きさ、位置情報などのライブラリで使用するための情報を修正管理。
+ + ｄ
