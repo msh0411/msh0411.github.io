@@ -1,4 +1,4 @@
-#####クラス構造
+##### クラス構造
 
 <img src="https://msh0411.github.io/assets/TheAlchemist_04.jpg" alt="drawing" width="500"/>
 
