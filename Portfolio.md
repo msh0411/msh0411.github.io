@@ -160,7 +160,7 @@ _ _ _
 
 #### 小規模会員管理アプリケーション
 
-<img src="https://msh0411.github.io/assets/CustomerManager_01.jpg" alt="drawing" width="400"/>
+<img src="https://msh0411.github.io/assets/CustomerManager_01.JPG" alt="drawing" width="400"/>
 
 |プラットフォーム|使用技術|人数|役割
 |--------|--------|--------|--------|
