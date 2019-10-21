@@ -120,11 +120,12 @@ _ _ _
 
 |プラットフォーム|使用技術|人数|役割
 |--------|--------|--------|--------|
-|Android, IOS, Cocos2d-X|NativeC, C++, Java, ObjectiveC|18人|開発|
+|Android, IOS, Cocos2d-X|NativeC, C++, Java, ObjectiveC、MySQL, MongoDB, PHP, Tcp/ip|18人|開発|
 
 【説明】
 
 + Cocos2d-xを基にして開発したマルチプラットフォームゲームアプリ。
++ For Kakao専用ゲームアプリ。
 
 【業務内容】
 
@@ -152,7 +153,14 @@ _ _ _
 
 【業務内容】
 
-+ 
++ フロートタイプ開発
++ Cocos2d-xエンジンの改善。
++ メインプログラマとしてゲームロジック全般の開発参加。
++ フラッシュで作業された関節アニメーションの連動ライブラリの改善
++ UIデザイナー, アニメーターの作業速度改善,便宜のためのPhotoshopマクロ,Aアプリ開発
++ NativeCを活用したAndroid <-> Cocos2d-x間のデータ処理。
++ 決済、PHPサーバーとの通信処理のためのJSonPasing。
++ リアルタイムグループ戦闘のためのTcp/ip通信処理
 
 [詳しくは](https://msh0411.github.io/posts/2019-10-14-GodsGate)
 
