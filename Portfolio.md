@@ -25,7 +25,7 @@ _ _ _
 + UI 設計、開発。
 + Character, Monster Skill 設計、開発。
 
-[詳しくは](https://msh0411.github.io/The-Alchemist)
+<u> [詳しくは](https://msh0411.github.io/The-Alchemist) </u>
 
 _ _ _
 
@@ -47,7 +47,7 @@ _ _ _
 + 2D Androidゲームアプリ開発のためのLibrary開発。
 + File I/O, Graphics, Sound, Input, UI, Managerの構造設計, 開発。
 
-[詳しくは](https://msh0411.github.io/Android-Game-Library)
+<u> [詳しくは](https://msh0411.github.io/Android-Game-Library) </u>
 
 _ _ _
 
@@ -67,7 +67,7 @@ _ _ _
 
 + Toolの全体的作業を担当して開発。
 
-[詳しくは](https://msh0411.github.io/Resource-Batch-Tool/)
+<u> [詳しくは](https://msh0411.github.io/Resource-Batch-Tool/) </u>
 
 _ _ _
 
@@ -87,7 +87,7 @@ _ _ _
 
 + UI, Tile Map System, 決済、 File I/Oを担当して開発。 
 
-[詳しくは](https://msh0411.github.io/Piggybank)
+<u> [詳しくは](https://msh0411.github.io/Piggybank) </u>
 
 _ _ _
 
@@ -107,7 +107,7 @@ _ _ _
 
 + 他社の開発依頼で引き受けて開発されたゲームでゲームロジック、全部分を担当。
 
-[詳しくは](https://msh0411.github.io/Dream-Runner)
+<u> [詳しくは](https://msh0411.github.io/Dream-Runner) </u>
 
 _ _ _
 
@@ -133,7 +133,7 @@ _ _ _
 + IOS, Android決済をGame Serverと連動。
 + Animation Library開発。
 
-[詳しくは](https://msh0411.github.io/Legend-Of-Mukbang)
+<u> [詳しくは](https://msh0411.github.io/Legend-Of-Mukbang) </u>
 
 _ _ _
 
@@ -162,7 +162,7 @@ _ _ _
 + 決済、PHPサーバーとの通信処理のためのJSonPasing。
 + リアルタイムグループ戦闘のためのTcp/ip通信処理
 
-[詳しくは](https://msh0411.github.io/Gods-Gate)
+<u> [詳しくは](https://msh0411.github.io/Gods-Gate) </u>
 
 _ _ _
 
@@ -176,13 +176,13 @@ _ _ _
 
 【説明】
 
-+ ３個の店舗の統合会員管理アプリ
++ 16個の店舗の統合会員管理アプリ
 + 会員情報管理、契約のスケジュール管理、担当者間の業務共有、利益や会員類型などの統計。
 
 【業務内容】
 
 + 開発全般にわたる設計,開発,クライアント要請によるフィードバック改善作業
 
-[詳しくは](https://msh0411.github.io/Customer-Manager)
+<u> [詳しくは](https://msh0411.github.io/Customer-Manager) </u>
 
 _ _ _
