@@ -47,11 +47,7 @@ _ _ _
 + 2D Androidゲームアプリ開発のためのLibrary開発。
 + File I/O, Graphics, Sound, Input, UI, Managerの構造設計, 開発。
 
-<u> 
-
-[詳しくは](https://msh0411.github.io/Android-Game-Library)
-
-</u>
+<u><a href="https://msh0411.github.io/Android-Game-Library">詳しくは</a></u>
 
 _ _ _
 
@@ -71,11 +67,7 @@ _ _ _
 
 + Toolの全体的作業を担当して開発。
 
-<u> 
-
-[詳しくは](https://msh0411.github.io/Resource-Batch-Tool/)
-
-</u>
+<u><a href="https://msh0411.github.io/Resource-Batch-Tool">詳しくは</a></u>
 
 _ _ _
 
@@ -95,11 +87,7 @@ _ _ _
 
 + UI, Tile Map System, 決済、 File I/Oを担当して開発。 
 
-<u> 
-
-[詳しくは](https://msh0411.github.io/Piggybank) 
-
-</u>
+<u><a href="https://msh0411.github.io/Piggybank">詳しくは</a></u>
 
 _ _ _
 
@@ -119,11 +107,7 @@ _ _ _
 
 + 他社の開発依頼で引き受けて開発されたゲームでゲームロジック、全部分を担当。
 
-<u> 
-
-[詳しくは](https://msh0411.github.io/Dream-Runner)
-
-</u>
+<u><a href="https://msh0411.github.io/Dream-Runner">詳しくは</a></u>
 
 _ _ _
 
@@ -149,11 +133,7 @@ _ _ _
 + IOS, Android決済をGame Serverと連動。
 + Animation Library開発。
 
-<u> 
-
-[詳しくは](https://msh0411.github.io/Legend-Of-Mukbang)
-
-</u>
+<u><a href="https://msh0411.github.io/Legend-Of-Mukbang">詳しくは</a></u>
 
 _ _ _
 
@@ -182,11 +162,7 @@ _ _ _
 + 決済、PHPサーバーとの通信処理のためのJSonPasing。
 + リアルタイムグループ戦闘のためのTcp/ip通信処理
 
-<u>
-
-[詳しくは](https://msh0411.github.io/Gods-Gate) 
-
-</u>
+<u><a href="https://msh0411.github.io/Gods-Gate">詳しくは</a></u>
 
 _ _ _
 
@@ -207,10 +183,6 @@ _ _ _
 
 + 開発全般にわたる設計,開発,クライアント要請によるフィードバック改善作業
 
-<u>
-
-[詳しくは](https://msh0411.github.io/Customer-Manager)
-
-</u>
+<u><a href="https://msh0411.github.io/Customer-Manage">詳しくは</a></u>
 
 _ _ _
