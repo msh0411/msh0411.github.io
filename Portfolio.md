@@ -183,6 +183,6 @@ _ _ _
 
 + 開発全般にわたる設計,開発,クライアント要請によるフィードバック改善作業
 
-<u><a href="https://msh0411.github.io/Customer-Manage">詳しくは</a></u>
+<u><a href="https://msh0411.github.io/Customer-Manager">詳しくは</a></u>
 
 _ _ _
