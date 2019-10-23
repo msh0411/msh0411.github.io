@@ -6,28 +6,28 @@ GP2Xは(株)ゲームパークホールディングスで開発するビデオ�
 
 _ _ _
 
-### The Alchemist 構造
+### 構造
 
 1.GameView
 
 <img src="https://msh0411.github.io/assets/TheAlchemist_04.jpg" alt="drawing" width="500"/>
 
-+ ｄ
 
 2.Object
 
 <img src="https://msh0411.github.io/assets/TheAlchemist_05.jpg" alt="drawing" width="500"/>
 
-+ ｄ
 
 3.他
 
 <img src="https://msh0411.github.io/assets/TheAlchemist_06.jpg" alt="drawing" width="500"/>
 
- + ｄ
 
 _ _ _
 
 ### 役割
 
- + 
+ + Monster Pattern 作業
+ + UI(User Interface) 作業
+ + Character Skill 作業
+ + Scenario 演出、Stage 作業

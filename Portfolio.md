@@ -21,9 +21,7 @@ _ _ _
 
 【業務内容】
 
-+ Monster AI 設計、開発。
-+ UI 設計、開発。
-+ Character, Monster Skill 設計、開発。
++ Monster Pattern、Character Skill、Scenario, Stage 作業。
 
 <u><a href="https://msh0411.github.io/The-Alchemist">詳しくは</a></u>
 
