@@ -25,11 +25,7 @@ _ _ _
 + UI 設計、開発。
 + Character, Monster Skill 設計、開発。
 
-<u>
-
-[詳しくは](https://msh0411.github.io/The-Alchemist)
-
-</u>
+<u><a href="https://msh0411.github.io/The-Alchemist">詳しくは</a></u>
 
 _ _ _
 
