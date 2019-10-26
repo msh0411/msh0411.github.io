@@ -7,7 +7,6 @@ _ _ _
 
 ### The Alchemist
 
-<img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/Gp2xWiz.jpg" alt="drawing" width="200"/>
 <img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_01.jpg" alt="drawing" width="200"/>
 
 |プラットフォーム|使用技術|人数|役割
@@ -111,10 +110,10 @@ _ _ _
 
 ### Legend of Mukbang
 
-<img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/LegendOfMukbang_01.jpg" alt="drawing" width="100" height="170"/>
-<img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/LegendOfMukbang_02.jpg" alt="drawing" width="100" height="170"/>
-<img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/LegendOfMukbang_03.jpg" alt="drawing" width="100" height="170"/>
-<img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/LegendOfMukbang_04.jpg" alt="drawing" width="100" height="170"/>
+<img style="margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/LegendOfMukbang_01.jpg" alt="drawing" width="100" height="170"/>
+<img style="margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/LegendOfMukbang_02.jpg" alt="drawing" width="100" height="170"/>
+<img style="margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/LegendOfMukbang_03.jpg" alt="drawing" width="100" height="170"/>
+<img style="margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/LegendOfMukbang_04.jpg" alt="drawing" width="100" height="170"/>
 
 |プラットフォーム|使用技術|人数|役割
 |--------|--------|--------|--------|
