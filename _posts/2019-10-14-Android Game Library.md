@@ -8,7 +8,7 @@ _ _ _
 
 ## 構成
 
- * File I/O  
+ * **File I/O**  
 Packageフォルダ拡張SDカードのI/O制御とAsset FolderでのFile Loadingに使用。
 
  * Graphics  
