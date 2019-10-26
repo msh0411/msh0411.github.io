@@ -1,7 +1,7 @@
 _ _ _
 
 Android Game Libraryは2D Android Game製作のために製作された独自のLibraryにlibgdx Libraryの構造を基に製作されたLibrary.  
-大きくLibraryの構造はファイルI/O, Granphics, Sound, Interface, User Input, Managerで構成。
+大きくLibraryの構造はファイルI/O, Graphics, Sound, Interface, Input, Managerで構成。
 
 _ _ _
 
@@ -28,8 +28,6 @@ Android Layout機能をもとに当該Libraryで使用できるUI Systemを構�
 _ _ _
 
 ## 構造と機能
-
-_ _ _
 
  * **File I/O**  
 <img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/AndroidGameLibrary_03.jpg" alt="drawing" width="150"/>
