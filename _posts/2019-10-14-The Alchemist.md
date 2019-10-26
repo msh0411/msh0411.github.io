@@ -1,33 +1,37 @@
 _ _ _
 
-### GP2X
+## GP2X
 
 <img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/Gp2xWiz.jpg" alt="drawing" width="500"/>
 
-GP2Xは(株)ゲームパークホールディングスで開発するビデオゲーム・コンソール兼用ポータブルメディアプレーヤーで、前作であるGP32の機能を極大化した後続機種です。 (ただし両機器のプログラム互換性はない。) 2005年9月2日名前の公募展を通じてブランド名を確定し、同年11月10日に発売されました。 以降、タッチスクリーンを追加したF-200と内部仕様が変更されたF-300が発売されており、後編作はGP2XWizです。
+GP2Xは(株)ゲームパークホールディングスで開発するビデオゲーム・コンソール兼用ポータブルメディアプレーヤーで、前作であるGP32の機能を極大化した後続機種。 (ただし両機器のプログラム互換性はない。) 2005年9月2日名前の公募展を通じてブランド名を確定し、同年11月10日に発売された。 以降、タッチスクリーンを追加したF-200と内部仕様が変更されたF-300が発売されており、後編作はGP2XWiz。
 
 _ _ _
 
-### 構造
+## ゲーム紹介
+<img style="margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_01.jpg" alt="drawing" width="150"/>
+<img style="margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_02.jpg" alt="drawing" width="150"/>
+<img style="margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_03.jpg" alt="drawing" width="150"/>
+The AlchemistはGP2X専用ゲームアプリとして弾幕シューティングゲームジャンルのゲームだ。2人のキャラクターの中で一人のキャラクターを選択し、ステージを進行し、シナリオをクリアするゲームだ。
+_ _ _
 
-1. GameView
+## 構造
 
-<img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_04.jpg" alt="drawing" width="500"/>
+###**GameView**  
+<img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_04.jpg" alt="drawing" width="1000"/>  
+ * ㅇㅇ
 
+###**Object**  
+<img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_05.jpg" alt="drawing" width="1000"/>  
+ * ㅇㅇ
 
-2. Object
-
-<img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_05.jpg" alt="drawing" width="500"/>
-
-
-3. 他
-
-<img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_06.jpg" alt="drawing" width="500"/>
-
+###**他**  
+<img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_06.jpg" alt="drawing" width="200"/>  
+ * ㅇㅇ
 
 _ _ _
 
-### 役割
+## 役割
 
  + Monster Pattern 作業
  + UI(User Interface) 作業
