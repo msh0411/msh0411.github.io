@@ -6,7 +6,7 @@ Android Game Libraryは2D Android Game製作のために製作された独自の
 
 _ _ _
 
-### ** 構成 **
+<h2><string>構成</string></h2>
 
 File I/O
 
