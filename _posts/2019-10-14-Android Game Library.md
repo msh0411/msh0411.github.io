@@ -27,9 +27,9 @@ Android Layout機能をもとに当該Libraryで使用できるUI Systemを構�
 
 _ _ _
 
-### 構造と機能
+## 構造と機能
 
-#### File I/O  
+ * **File I/O**   
 <img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/AndroidGameLibrary_03.jpg" alt="drawing" width="150"/>
 
 파일을 읽고 쓰는 기능을 담당한다. Android는 자바를 사용하기 때문에 표준 방식인 InputStream과 OutputStream형태로 데이터를 읽고 쓴다.주로 일시 정지된 게임의 데이터를 저장하거나, 랭킹정보, 게임의 데이터 처리를 위해서 사용된다.
@@ -43,7 +43,7 @@ File I/O는 크게 3가지 기능으로 분류된다.
 엔진 라이브러리는 Android에서 제공하는 I/O 기능을 사용하지 않고 Asset폴더에서 자유로운 확장자의 파일들을 읽어 사용한다.
 Android에서 제공하는 I/O 기능을 사용할 경우 일부 확장자의 이미지 파일이나 사운드 파일을 자동적으로 변환해버리기 때문에 데이터의 손실이나 화질에 차이를 보일 수 있기에 Asset 폴더를 통한 I/O 기능을 활용하고 있다.
 
-#### Graphics  
+ * **Graphics**  
 <img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/AndroidGameLibrary_04.jpg" alt="drawing" width="500"/>
 
 Graphics는 Texture를 읽어 들여 화면에 표현하는 클래스로 OpenGL ES 1.0 을 지원한다. OpenGL ES 2.0을 지원하면 많은 효과를 적용하거나 최적화할 수 있는 부분들이 생기지만, 아직까지 많은 사용자가 원활하게 OpenGL ES 2.0을 지원하는 것이 아니기 때문에 호환성을 위해 OpenGL ES 1.0을 바탕으로 제작하였다.
