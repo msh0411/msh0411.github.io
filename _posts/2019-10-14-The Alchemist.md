@@ -12,22 +12,22 @@ _ _ _
 <img style="margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_01.jpg" alt="drawing" width="150"/>
 <img style="margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_02.jpg" alt="drawing" width="150"/>
 <img style="margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_03.jpg" alt="drawing" width="150"/>
-The AlchemistはGP2X専用ゲームアプリとして弾幕シューティングゲームジャンルのゲームだ。2人のキャラクターの中で一人のキャラクターを選択し、ステージを進行し、シナリオをクリアするゲームだ。
+The AlchemistはGP2X専用ゲームアプリとして弾幕シューティングゲームジャンルのゲーム。2人のキャラクターの中で一人のキャラクターを選択し、ステージを進行し、シナリオをクリアするゲーム。
 _ _ _
 
 ## 構造
 
 ###**GameView**  
 <img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_04.jpg" alt="drawing" width="1000"/>  
- * ㅇㅇ
+ * 画面を表すシーンとして、実装した機能を画面上に表現、シーンの役割によって機能を分離して管理する。
 
 ###**Object**  
 <img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_05.jpg" alt="drawing" width="1000"/>  
- * ㅇㅇ
+ * ゲーム上に存在する全てのObjectを定義、GameObjectを相続してキャラクター、敵、ミサイルなどを実装、管理する。
 
 ###**他**  
 <img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_06.jpg" alt="drawing" width="200"/>  
- * ㅇㅇ
+ * ミサイル及びベクトル表現等の数学、物理を演算するためのクラス定義、Objectの種類等を管理するためのEnumを定義。
 
 _ _ _
 
