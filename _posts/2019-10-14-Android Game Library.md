@@ -30,19 +30,21 @@ _ _ _
 ### 構造と機能
 
  * File I/O  
-<img src="https://msh0411.github.io/assets/AndroidGameLibrary_03.jpg" alt="drawing" width="150"/>  
+<img src="https://msh0411.github.io/assets/AndroidGameLibrary_03.jpg" alt="drawing" width="150"/>
+
 파일을 읽고 쓰는 기능을 담당한다. Android는 자바를 사용하기 때문에 표준 방식인 InputStream과 OutputStream형태로 데이터를 읽고 쓴다.  
-주로 일시 정지된 게임의 데이터를 저장하거나, 랭킹정보, 게임의 데이터 처리를 위해서 사용된다.  
-FileIO라는 인터페이스를 사용하며 Android용 I/O는 AndroidFileIO에서 구현하고 있다.  
-  
-File I/O는 크게 3가지 기능으로 분류된다.  
- 1. Asset에서의 파일 읽기.
- 2. 설치된 Package 폴더 내 파일 생성 및 읽기 / 쓰기.
- 3. 확장 SD 카드 내 파일 생성 및 읽기 / 쓰기.
-  
-엔진 라이브러리는 Android에서 제공하는 I/O 기능을 사용하지 않고 Asset폴더에서 자유로운 확장자의 파일들을 읽어 사용한다.  
-  
-Android에서 제공하는 I/O 기능을 사용할 경우 일부 확장자의 이미지 파일이나 사운드 파일을 자동적으로 변환해버리기 때문에 데이터의 손실이나 화질에 차이를 보일 수 있기에 Asset 폴더를 통한 I/O 기능을 활용하고 있다.  
+주로 일시 정지된 게임의 데이터를 저장하거나, 랭킹정보, 게임의 데이터 처리를 위해서 사용된다.
+
+FileIO라는 인터페이스를 사용하며 Android용 I/O는 AndroidFileIO에서 구현하고 있다.
+
+File I/O는 크게 3가지 기능으로 분류된다.
+  1. Asset에서의 파일 읽기.
+  2. 설치된 Package 폴더 내 파일 생성 및 읽기 / 쓰기.
+  3. 확장 SD 카드 내 파일 생성 및 읽기 / 쓰기.
+
+엔진 라이브러리는 Android에서 제공하는 I/O 기능을 사용하지 않고 Asset폴더에서 자유로운 확장자의 파일들을 읽어 사용한다.
+
+Android에서 제공하는 I/O 기능을 사용할 경우 일부 확장자의 이미지 파일이나 사운드 파일을 자동적으로 변환해버리기 때문에 데이터의 손실이나 화질에 차이를 보일 수 있기에 Asset 폴더를 통한 I/O 기능을 활용하고 있다.
 
 #### Graphics
 
