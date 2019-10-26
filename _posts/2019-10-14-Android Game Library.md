@@ -6,31 +6,25 @@ Android Game Libraryは2D Android Game製作のために製作された独自の
 
 _ _ _
 
-<h2>構成</h2>
-<ul>
-<li><strong>File I/O</strong></li>
-</ul>
-<p style="padding-left: 30px;">Packageフォルダ拡張SDカードのI/O制御とAsset FolderでのFile Loadingに使用。</p>
-<ul>
-<li><strong>Graphics</strong></li>
-</ul>
-<p style="padding-left: 30px;">2D基盤グラフィック表現や下位互換性のためにOpenGL ES 1.0を基に制作される。</p>
-<ul>
-<li><strong>Sound</strong></li>
-</ul>
-<p style="padding-left: 30px;">Androidで提供されるSoundPoolとMediaPlayerを使用。</p>
-<ul>
-<li><strong>Input</strong></li>
-</ul>
-<p style="padding-left: 30px;">ユーザ入力を受けて処理し、処理可能な種類はKeyboard, Touch, Vibrate, Acceleration, Orientation などの入力を処理。</p>
-<ul>
-<li><strong>UI</strong></li>
-</ul>
-<p style="padding-left: 30px;">Android Layout機能をもとに当該Libraryで使用できるUI Systemを構築。</p>
-<ul>
-<li><strong>Manager</strong></li>
-</ul>
-<p style="padding-left: 30px;">提供される機能の管理およびアプリの制御を担当。</p>
+## 構成
+
+ * File I/O
+Packageフォルダ拡張SDカードのI/O制御とAsset FolderでのFile Loadingに使用。
+
+ * Graphics
+2D基盤グラフィック表現や下位互換性のためにOpenGL ES 1.0を基に制作される。
+
+ * Sound
+Androidで提供されるSoundPoolとMediaPlayerを使用。
+
+ * Input
+ユーザ入力を受けて処理し、処理可能な種類はKeyboard, Touch, Vibrate, Acceleration, Orientation などの入力を処理。
+
+ * UI
+Android Layout機能をもとに当該Libraryで使用できるUI Systemを構築。
+
+ * Manager
+提供される機能の管理およびアプリの制御を担当。
 
 _ _ _
 
