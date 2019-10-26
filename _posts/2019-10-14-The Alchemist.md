@@ -14,6 +14,7 @@ _ _ _
 <img style="margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_03.jpg" alt="drawing" width="150"/>  
 
 The AlchemistはGP2X専用ゲームアプリとして弾幕シューティングゲームジャンルのゲーム。2人のキャラクターの中で一人のキャラクターを選択し、ステージを進行し、シナリオをクリアするゲーム。
+
 _ _ _
 
 ## 構造
