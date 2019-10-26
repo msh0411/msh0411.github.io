@@ -1,6 +1,6 @@
 _ _ _
 
-<h3>Android Game Libraryは</h3>
+## Android Game Libraryは
 
 Android Game Libraryは2D Android Game製作のために製作された独自のLibraryにlibgdx Libraryの構造を基に製作されたLibrary.
 
