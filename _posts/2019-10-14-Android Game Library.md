@@ -8,22 +8,22 @@ _ _ _
 
 ## 構成
 
- * File I/O
+ * File I/O  
 Packageフォルダ拡張SDカードのI/O制御とAsset FolderでのFile Loadingに使用。
 
- * Graphics
+ * Graphics  
 2D基盤グラフィック表現や下位互換性のためにOpenGL ES 1.0を基に制作される。
 
- * Sound
+ * Sound  
 Androidで提供されるSoundPoolとMediaPlayerを使用。
 
- * Input
+ * Input  
 ユーザ入力を受けて処理し、処理可能な種類はKeyboard, Touch, Vibrate, Acceleration, Orientation などの入力を処理。
 
- * UI
+ * UI  
 Android Layout機能をもとに当該Libraryで使用できるUI Systemを構築。
 
- * Manager
+ * Manager  
 提供される機能の管理およびアプリの制御を担当。
 
 _ _ _
