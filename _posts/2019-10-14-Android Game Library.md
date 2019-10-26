@@ -8,37 +8,29 @@ _ _ _
 
 <h2>構成</h2>
 <ul>
-<li style="padding-left: 0px;"><strong>File I/O</strong>
+<li><strong>File I/O</strong></li>
+</ul>
+<p style="padding-left: 30px;">Packageフォルダ拡張SDカードのI/O制御とAsset FolderでのFile Loadingに使用。</p>
 <ul>
-<li style="padding-left: 0px;">Packageフォルダ拡張SDカードのI/O制御とAsset FolderでのFile Loadingに使用。</li>
+<li><strong>Graphics</strong></li>
 </ul>
-</li>
-<li style="padding-left: 0px;"><strong>Graphics</strong>
+<p style="padding-left: 30px;">2D基盤グラフィック表現や下位互換性のためにOpenGL ES 1.0を基に制作される。</p>
 <ul>
-<li style="padding-left: 0px;">2D基盤グラフィック表現や下位互換性のためにOpenGL ES 1.0を基に制作される。</li>
+<li><strong>Sound</strong></li>
 </ul>
-</li>
-<li style="padding-left: 0px;"><strong>Sound</strong>
+<p style="padding-left: 30px;">Androidで提供されるSoundPoolとMediaPlayerを使用。</p>
 <ul>
-<li style="padding-left: 0px;">Androidで提供されるSoundPoolとMediaPlayerを使用。</li>
+<li><strong>Input</strong></li>
 </ul>
-</li>
-<li style="padding-left: 0px;"><strong>Input</strong>
+<p style="padding-left: 30px;">ユーザ入力を受けて処理し、処理可能な種類はKeyboard, Touch, Vibrate, Acceleration, Orientation などの入力を処理。</p>
 <ul>
-<li style="padding-left: 0px;">ユーザ入力を受けて処理し、処理可能な種類はKeyboard, Touch, Vibrate, Acceleration, Orientation などの入力を処理。</li>
+<li><strong>UI</strong></li>
 </ul>
-</li>
-<li style="padding-left: 0px;"><strong>UI</strong>
+<p style="padding-left: 30px;">Android Layout機能をもとに当該Libraryで使用できるUI Systemを構築。</p>
 <ul>
-<li style="padding-left: 0px;">Android Layout機能をもとに当該Libraryで使用できるUI Systemを構築。</li>
+<li><strong>Manager</strong></li>
 </ul>
-</li>
-<li style="padding-left: 0px;"><strong>Manager</strong>
-<ul>
-<li style="padding-left: 0px;">提供される機能の管理およびアプリの制御を担当。</li>
-</ul>
-</li>
-</ul>
+<p style="padding-left: 30px;">提供される機能の管理およびアプリの制御を担当。</p>
 
 _ _ _
 
