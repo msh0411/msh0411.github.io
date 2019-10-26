@@ -26,7 +26,7 @@ _ _ _
  * ゲーム上に存在する全てのObjectを定義、GameObjectを相続してキャラクター、敵、ミサイルなどを実装、管理する。
 
 **他**  
-<img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_06.jpg" alt="drawing" width="200"/>  
+<img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/TheAlchemist_06.jpg" alt="drawing" width="300"/>  
  * ミサイル及びベクトル表現等の数学、物理を演算するためのクラス定義、Objectの種類等を管理するためのEnumを定義。
 
 _ _ _
