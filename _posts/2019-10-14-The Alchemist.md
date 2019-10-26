@@ -32,10 +32,3 @@ _ _ _
  * ミサイル及びベクトル表現等の数学、物理を演算するためのクラス定義、Objectの種類等を管理するためのEnumを定義。
 
 _ _ _
-
-## 役割
-
- + Monster Pattern 作業
- + UI(User Interface) 作業
- + Character Skill 作業
- + Scenario 演出、Stage 作業
