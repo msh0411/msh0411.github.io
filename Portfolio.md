@@ -84,8 +84,6 @@ _ _ _
 
 + UI, Tile Map System, 決済、 File I/Oを担当して開発。 
 
-<u><a href="https://msh0411.github.io/Piggybank">詳しくは</a></u>
-
 _ _ _
 
 ### DreamRunner
@@ -103,8 +101,6 @@ _ _ _
 【業務内容】
 
 + 他社の開発依頼で引き受けて開発されたゲームでゲームロジック、全部分を担当。
-
-<u><a href="https://msh0411.github.io/Dream-Runner">詳しくは</a></u>
 
 _ _ _
 
