@@ -5,15 +5,15 @@ _ _ _
 
 <table border=1>
     <tr>
-        <th align="center">
+        <td align="center">
         <img src="https://msh0411.github.io/assets/LegendOfMukbang_06.jpg" alt="drawing" width="100"/>
-        </th>
-        <th align="left">
+        </td>
+        <td align="left">
         ゲーム名：Legend of mukbang for Kakao
         種類：アーケード
         製作社：AliceGames
         プラットフォーム：Android, IOS
-        </th>
+        </td>
     </tr>
 </table>
 
