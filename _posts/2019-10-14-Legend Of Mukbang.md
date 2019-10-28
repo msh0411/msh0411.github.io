@@ -3,7 +3,7 @@ _ _ _
 
 <img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/LegendOfMukbang_05.jpg" alt="drawing" width="300"/>
 
-|  |  |
+| dd | dd |
 |--------|--------|
 | ![](http://https://msh0411.github.io/assets/LegendOfMukbang_06.jpg) |ゲーム名：Legend of mukbang for Kakao
 種類：アーケード
