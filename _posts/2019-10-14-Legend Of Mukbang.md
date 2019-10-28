@@ -3,7 +3,7 @@ _ _ _
 
 <img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/LegendOfMukbang_05.jpg" alt="drawing" width="300"/>
 
-|  |  |
+|  | 情報 |
 |---|------------------------------------------------------|
 | <img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/LegendOfMukbang_06.jpg" alt="drawing" width="100"/> | ゲーム名：Legend of mukbang for Kakao<br>種類：アーケード<br>製作社：AliceGames<br>プラットフォーム：Android, IOS|
 
