@@ -5,7 +5,7 @@ _ _ _
 
 | dd | dd |
 |--------|--------|
-| ![](http://https://msh0411.github.io/assets/LegendOfMukbang_06.jpg) |ゲーム名：Legend of mukbang for Kakao
+|<img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/LegendOfMukbang_05.jpg" alt="drawing" width="300"/>|ゲーム名：Legend of mukbang for Kakao
 種類：アーケード
 製作社：AliceGames
 プラットフォーム：Android, IOS|
