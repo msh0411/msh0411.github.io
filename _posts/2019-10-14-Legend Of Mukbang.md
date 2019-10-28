@@ -4,17 +4,14 @@ _ _ _
 <img style="display: block; margin-left: auto; margin-right: auto;"  src="https://msh0411.github.io/assets/LegendOfMukbang_05.jpg" alt="drawing" width="300"/>
 
 <table border=1>
-    <tr>
-        <td align="center">
-        <img src="https://msh0411.github.io/assets/LegendOfMukbang_06.jpg" alt="drawing" width="100"/>
-        </td>
-        <td align="left">
-        ゲーム名：Legend of mukbang for Kakao
-        種類：アーケード
-        製作社：AliceGames
-        プラットフォーム：Android, IOS
-        </td>
-    </tr>
+<tr>
+<td align="center"><img src="https://msh0411.github.io/assets/LegendOfMukbang_06.jpg" alt="drawing" width="100"/></td>
+<td align="left">ゲーム名：Legend of mukbang for Kakao
+種類：アーケード
+製作社：AliceGames
+プラットフォーム：Android, IOS
+</td>
+</tr>
 </table>
 
 食べ放送というゲーム業界ではなじみの薄い素材を採用し、<Legend of mukbang for Kakao>、以下<Legend of mukbang>という名前で発売した。 新しいものがないパズルゲームで、<Legend of mukbang>は親しみやすさを優先して打ち出した。 そして、ここに「食べ放送」という新鮮な素材と対戦モードプレイスタイルで勝負をつけた。
